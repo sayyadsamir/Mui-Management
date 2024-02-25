@@ -1,0 +1,109 @@
+.cards {
+   margin-top: 5px;
+   background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(122, 96, 1, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
+
+.paddings {
+   padding: 2px 5px 2px 5px;
+}
+
+.pricetitle {
+   font-weight: bold;
+   font-size: 25px;
+   color: white;
+}
+
+.pricesubtitle {
+   font-size: 20px;
+}
+
+.icons {
+   font-size: 30px;
+   color: white;
+}
+
+.gradient {
+   background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(122, 96, 1, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
+
+.bgColor {
+   background-color: rgb(218, 231, 236);
+   padding: 0px;
+   margin: 0px;
+}
+
+.cards1 {
+   margin-top: 5px;
+   /* padding: 20px; */
+}
+
+.cards span {
+   padding: 10px;
+}
+
+.span1 {
+   color: black;
+}
+
+.aert_box_AddForm {
+
+   background-color: skyblue;
+}
+
+.outer {
+   height: 90vh;
+   width: 100%;
+   /* background-color: skyblue; */
+   background: linear-gradient(90deg, rgb(3, 2, 33) 0%, rgb(151, 7, 141) 0%, rgba(0, 212, 255, 1) 100%);
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.inner {
+   width: 400px;
+   height: auto;
+   border: 2px solid black;
+   padding: 40px;
+   border-radius: 20px;
+   background: linear-gradient(90deg, rgb(183, 15, 71) 0%, rgb(122, 1, 50) 0%, rgba(0, 212, 255, 1) 100%);
+   box-shadow: 0px 0px 15px 5px black;
+}
+
+.inner input {
+   font-size: 25px;
+   margin-top: 30px;
+}
+
+.profile_page {
+   margin-top: 50px;
+}
+
+
+/* setting page css started...  */
+
+
+.setting .images{
+   margin-top: 10px;
+  background-image: url('https://images.unsplash.com/photo-1535868463750-c78d9543614f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGRhcmt8ZW58MHx8MHx8fDA%3D');
+  height: 90vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section{
+  color: black;
+}
+
+.cards2{
+   padding: 50px;
+   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+   text-align: center;
+}
+
+.card2{
+  height: auto;
+  padding: 20px;
+  border-radius: 10px 10px 10px 10px 10px black;
+}
